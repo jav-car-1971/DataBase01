@@ -8,7 +8,7 @@ paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes m
 
 [params]
     author = "JavCar1971"
-    info = "Kamckatka"
+    info = "ninguna"
     description = "Es lo que hay"
     colorscheme = "auto"
 
@@ -27,17 +27,17 @@ paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes m
         url = "/about/"  # <-- CORREGIDO
         weight = 2
   
-  [languages.en]
-    weight = 2
-    languageName = "English"
-    contentDir = "content/en"
+ # [languages.en] # Comentada para inhabilitar multilenguaje
+ #   weight = 2 # Comentada para inhabilitar multilenguaje
+ #   languageName = "English" # Comentada para inhabilitar multilenguaje
+ #   contentDir = "content/en" # Comentada para inhabilitar multilenguaje
   
-  [languages.fr]
-    weight = 3
-    languageName = "Français"
-    contentDir = "content/fr"
+ # [languages.fr] # Comentada para inhabilitar multilenguaje
+ #   weight = 3 # Comentada para inhabilitar multilenguaje
+ #  languageName = "Français" # Comentada para inhabilitar multilenguaje 
+ #  contentDir = "content/fr" # Comentada para inhabilitar multilenguaje
   
-  [languages.pt]
-    weight = 4
-    languageName = "Português"
-    contentDir = "content/pt"
+ # [languages.pt] # Comentada para inhabilitar multilenguaje
+ #  weight = 4 # Comentada para inhabilitar multilenguaje
+ #  languageName = "Português" # Comentada para inhabilitar multilenguaje
+ #  contentDir = "content/pt" # Comentada para inhabilitar multilenguaje
