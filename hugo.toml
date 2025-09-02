@@ -23,7 +23,7 @@ paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes m
         url = "/posts/"  # <-- CORREGIDO
         weight = 1
       [[languages.es.menu.main]]
-        name = "Sobre mí"
+        name = "Proyecto"
         url = "/about/"  # <-- CORREGIDO
         weight = 2
   
